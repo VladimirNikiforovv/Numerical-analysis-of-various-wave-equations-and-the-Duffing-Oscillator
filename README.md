@@ -1,0 +1,1 @@
+# Numerical-analysis-of-various-wave-equations-and-the-Duffing-Oscillator
